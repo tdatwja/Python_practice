@@ -24,3 +24,6 @@ print(a)
 print("Hello" + "My name is" + "misaki")
 day = "today"
 print(day + "is hot")
+
+a = "Today is Monday." + "\n" + "I go to school every Monday."
+print(a)
