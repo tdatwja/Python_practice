@@ -27,3 +27,6 @@ print(day + "is hot")
 
 a = "Today is Monday." + "\n" + "I go to school every Monday."
 print(a)
+
+a = "15"
+print(int(a) + 15)
