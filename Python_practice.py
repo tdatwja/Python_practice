@@ -35,3 +35,9 @@ x = "20"
 y = "Hello!"
 print(x.isdigit())
 print(y.isdigit())
+
+a = "My favorite color is green."
+if a.isdigit():
+  print(int(a) + 10)
+else:
+  print("数値ではない")
