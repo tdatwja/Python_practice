@@ -30,3 +30,8 @@ print(a)
 
 a = "15"
 print(int(a) + 15)
+
+x = "20"
+y = "Hello!"
+print(x.isdigit())
+print(y.isdigit())
